@@ -1,3 +1,4 @@
+# 구현 코드
 def solution(numbers, target):
     value = [0]
     for num in numbers:
